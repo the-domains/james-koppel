@@ -1,7 +1,7 @@
 name: James Koppel
 favicon: null
-layout_spectrum: 0.9884271037299186
-typography_spectrum: 0.5166460713371634
+layout_spectrum: 0
+typography_spectrum: 0.63547
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#3A6EA5'
     - '#004E98'
   brandStrength: 0.5625
-  lightness: 0.08226906391792
+  lightness: 0.1875
   saturation: 0.3327918257564306
-  rhythmicContrast: 0.8923426046967506
+  rhythmicContrast: 0.75
 purpose: []
